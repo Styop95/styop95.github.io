@@ -1,0 +1,88 @@
+body{
+	background: silver;
+}
+
+.insta77{
+	background: pink;
+}
+
+.insta7{
+	background: white;
+	font-size: 20px;
+}
+
+.insta7 > p{
+	padding: 15px;
+	text-align: left;
+}
+
+.grancum{
+	text-align: center;
+	margin-top: 40px;
+}
+
+.green{
+	color: green;
+}
+
+.reg{
+	border-bottom: solid 2px;
+}
+
+.harc{
+	color: green;
+	text-align: center;
+}
+
+.rub{
+	background: green;
+	font-size: 40px;
+	text-align: center;
+}
+
+.rub > a{
+	text-decoration: none;
+	color: red;
+}
+
+h3{
+	text-align: center;
+}
+
+.img{
+	width: 100%;
+	text-align: center;
+	background: white;
+}
+
+.ashxatanq > p{
+	padding: 15px;
+	text-align: left;
+}
+
+.ashxatanq > h2{
+	text-align: center;
+	color: green;
+}
+
+@media (max-width: 992px) {
+  		p{
+  			font-size: 50px;
+  	}
+
+  		h1{
+  			font-size: 60px;
+  	}	
+
+  		h2{
+  			font-size: 55px;
+  	}
+
+  		h3{
+  			font-size: 52px;
+  	}
+
+  		.rub{
+  		font-size: 100px;
+  	}
+  }
